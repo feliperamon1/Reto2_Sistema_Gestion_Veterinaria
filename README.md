@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/EdinsonHernandez92/Reto2_Sistema_Gestion_Veterinaria>
 cd sistema_gestion_veterinaria
 ```
 
